@@ -1,0 +1,2 @@
+a = 2
+print ("the value of a is", a)
